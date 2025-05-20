@@ -1,6 +1,6 @@
 h1 {
     font-size: 56px;
-    color: WHITE;
+    color: white;
 }
 
 p {
@@ -11,5 +11,17 @@ p {
 h3 {
     font-size: 24px;
     color: NAVY BLUE;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+address {
+    font-style: normal;
 }
 
