@@ -25,16 +25,17 @@ address {
     font-style: normal;
 }
 
- /*=======/*
-
 
 .hero-button {
-    background-color: WHITE;
+    background-color: white;
 
 }
 
 button {
-    background-color: blue;
+    background-color: red;
 }
 
+.btn{
+    background-color: white;
+}
 
